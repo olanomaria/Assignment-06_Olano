@@ -15,4 +15,4 @@ Users can perform operations like adding, searching, borrowing, and returning it
 
 How to run the programs:
 - Run the program
-- Follow the screen instructions;
+- Follow the screen instructions
