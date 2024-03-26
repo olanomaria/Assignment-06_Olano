@@ -14,5 +14,5 @@ Implements a Library Management System in Python with classes for library items 
 Users can perform operations like adding, searching, borrowing, and returning items from the library catalog.
 
 How to run the programs:
-Run the program
-Follow the screen instructions;
+- Run the program
+- Follow the screen instructions;
